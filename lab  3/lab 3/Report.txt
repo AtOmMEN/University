@@ -1,0 +1,8 @@
+Команды для 2 частини:
+cd C:\Users\Windows\Downloads\lab 3
+calculate.bat "C:\Users\Windows\Downloads\lab 3" "C:\Users\Windows\Downloads\lab 2"
+Звiт:
+lab 3.bat створює 2 папки (Not hidden folder та Hidden folder), робить скритою Hidden folder та створює copyhelp у Not hidden folder та копиює у Hidden folder.
+lab 3 (2).bat Вiдкриває звiт (цей файл)
+1.bat виконює 2 частину завдання (пiдраховує розмiр пiдкаталогiв каталогу, приймає змiнну кiлькiсть параметрiв (каталогiв, якi необхiдно обробити), не враховує 
+прихованi файли у них, тестував усе у Downdolads)
